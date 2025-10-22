@@ -1,6 +1,6 @@
 # _config.yml
 title: "Steve's Pages"
-email: your-email@example.com
+email: shodan2007@gmail.com
 description: "Tech, AI prompts, C#, and peer support"
 url: "https://shodan2007.github.io"       # your user URL
 baseurl: "/steves-pages"                  # repository path (leave blank for username.github.io)
@@ -19,9 +19,9 @@ plugins:
 paginate: 5
 
 # Theme options (minimal working set)
-theme: minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 author:
-  name: "Stef"
+  name: "Steve"
   avatar: /assets/images/avatar.jpg
   bio: "C# / AI / peer-support — demos and writing."
 
@@ -41,5 +41,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+
 
 
