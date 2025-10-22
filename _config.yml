@@ -1,46 +1,9 @@
-# _config.yml
 title: "Steve's Pages"
-email: shodan2007@gmail.com
-description: "Tech, AI prompts, C#, and peer support"
-url: "https://shodan2007.github.io"       # your user URL
-baseurl: "/steves-pages"                  # repository path (leave blank for username.github.io)
-remote_theme: mmistakes/minimal-mistakes  # use Minimal Mistakes remote theme
+description: "A place to learn, grow, and share support"
+url: "https://shodan2007.github.io"
+baseurl: "/steves-pages"
+remote_theme: mmistakes/minimal-mistakes
 
-social:
-  - title: "GitHub"
-    url: "https://github.com/shodan2007"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/porter-steve"
-
-# Pagination and collections
 plugins:
   - jekyll-feed
-  - jekyll-paginate
 paginate: 5
-
-# Theme options (minimal working set)
-remote_theme: mmistakes/minimal-mistakes
-author:
-  name: "Steve"
-  avatar: /assets/images/avatar.jpg
-  bio: "C# / AI / peer-support — demos and writing."
-
-# Navigation (update links as needed)
-nav:
-  - title: Home
-    url: /
-  - title: Demos
-    url: /demos/
-  - title: AI Prompts
-    url: /ai/
-  - title: Blog
-    url: /blog/
-
-# Exclude from the site build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-
-
-
