@@ -1,1 +1,38 @@
-theme: minima
+# _config.yml
+title: "Steve's Pages"
+email: your-email@example.com
+description: "Tech, AI prompts, C#, and peer support"
+url: "https://shodan2007.github.io"       # your user URL
+baseurl: "/steves-pages"                  # repository path (leave blank for username.github.io)
+remote_theme: mmistakes/minimal-mistakes  # use Minimal Mistakes remote theme
+
+# Pagination and collections
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+paginate: 5
+
+# Theme options (minimal working set)
+theme: minimal-mistakes
+author:
+  name: "Stef"
+  avatar: /assets/images/avatar.jpg
+  bio: "C# / AI / peer-support — demos and writing."
+
+# Navigation (update links as needed)
+nav:
+  - title: Home
+    url: /
+  - title: Demos
+    url: /demos/
+  - title: AI Prompts
+    url: /ai/
+  - title: Blog
+    url: /blog/
+
+# Exclude from the site build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
