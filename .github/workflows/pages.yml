@@ -3,7 +3,7 @@ name: pages-build-deployment
 on:
   push:
     branches:
-      - main
+      - main  # or your Pages branch
 
 permissions:
   contents: read
@@ -22,19 +22,21 @@ jobs:
         with:
           ruby-version: 3.1
 
-      - name: Build site with Jekyll
+      - name: Install dependencies
         run: |
           gem install bundler
-          bundle install --jobs 4 --retry 3
-          bundle exec jekyll build
+          bundle install
 
-      - name: Deploy to GitHub Pages
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Configure Pages
         uses: actions/configure-pages@v4
 
-      - name: Upload artifact
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: ./_site
 
-      - name: Deploy artifact
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v1
