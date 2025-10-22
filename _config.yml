@@ -6,6 +6,12 @@ url: "https://shodan2007.github.io"       # your user URL
 baseurl: "/steves-pages"                  # repository path (leave blank for username.github.io)
 remote_theme: mmistakes/minimal-mistakes  # use Minimal Mistakes remote theme
 
+social:
+  - title: "GitHub"
+    url: "https://github.com/shodan2007"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/porter-steve"
+
 # Pagination and collections
 plugins:
   - jekyll-feed
@@ -35,4 +41,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+
 
