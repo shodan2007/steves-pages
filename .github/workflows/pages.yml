@@ -3,7 +3,7 @@ name: pages-build-deployment
 on:
   push:
     branches:
-      - main  # or your Pages branch - wtf
+      - main  # or your Pages branch
 
 permissions:
   contents: read
