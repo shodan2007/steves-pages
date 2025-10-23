@@ -22,7 +22,7 @@ share: true
 ---
 
 ## Tech
-Seriously, it could be anything in here, except first person shooter games.  Not those.  No"
+Seriously, it could be anything in here, except first person shooter games. Not those. Just no.
 <hr>
 
 {% assign tech_posts = site.posts | where_exp: "post", "post.categories contains 'Tech'" %}
