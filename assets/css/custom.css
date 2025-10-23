@@ -1,0 +1,33 @@
+.recent-posts-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.recent-post-card {
+  flex: 1 1 300px;
+  max-width: 300px;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  border-radius: 6px;
+  background: #f9f9f9;
+}
+
+.recent-post-image {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+.recent-post-date {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.recent-post-excerpt {
+  font-size: 0.95rem;
+  color: #333;
+}
