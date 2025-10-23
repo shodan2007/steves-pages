@@ -3,6 +3,7 @@
   flex-wrap: wrap;
   gap: 2rem;
   margin-top: 2rem;
+  justify-content: center;
 }
 
 .recent-post-card {
@@ -12,6 +13,12 @@
   padding: 1rem;
   border-radius: 6px;
   background: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.recent-post-card:hover {
+  transform: translateY(-4px);
 }
 
 .recent-post-image {
@@ -21,8 +28,13 @@
   margin-bottom: 0.5rem;
 }
 
+.recent-post-text h3 {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
 .recent-post-date {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: #666;
   margin-bottom: 0.5rem;
 }

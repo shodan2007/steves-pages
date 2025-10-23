@@ -23,12 +23,13 @@ related: true
 author: "Steve"
 ---
 
-{% include recent_posts limit=3 %}
-
+<style>
+.recent-post-card { background: #eef; padding: 1rem; border-radius: 6px; }
+</style>
 
 ## Demos
 - Exception-handling framework; runnable samples in the repo.
 - Minimal ASP.NET sample: /samples/ExceptionDemo
 
-
+{% include recent_posts limit=3 %}
 
