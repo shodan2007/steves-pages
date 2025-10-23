@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: single
 title: "Demos"
 permalink: /demos/
 categories: [general]
 excerpt: "Demos excerpt"
 header:
-  teaser: /assets/images/firstblog-exception.png
-  overlay_image: /assets/images/firstblog-overlay-exception.jpg
+  teaser: /assets/images/teaser-exception.png
+  overlay_image: /assets/images/overlay-exception.jpg
   overlay_filter: 0.3
 
 read_time: true
