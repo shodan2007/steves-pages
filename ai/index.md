@@ -9,6 +9,9 @@ categories: [general, ai]
 
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
+sidebar:
+  nav: "main"
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -22,3 +25,5 @@ share: true
 
 ## AI Prompt Patterns
 Examples and notes from Coursera assignments and real prompts.
+
+{% include feature_row id="quicknav" %}
