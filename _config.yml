@@ -20,7 +20,7 @@ highlighter: rouge
 
 author:
   name: "Steve"
-  avatar: "/assets/images/avatar.jpg"
+  avatar: "/assets/images/avatar.png"
   bio: "Technologist, peer coach, and prompt tinkerer. Building clarity through code and care."
   location: "Indianapolis, IN"
   email: "shodan2007@gmail.com"
