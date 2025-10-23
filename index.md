@@ -1,12 +1,12 @@
 ---
-layout: home
-title: "Home"
-hero:
-  title: "Welcome — Steve's Pages"
-  tagline: "Demos, AI prompt patterns, C# examples, and peer support writing"
+layout: splash
+title: "Welcome to Steve's Pages"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header.jpg
+  caption: "Code clarity, prompt patterns, and lived experience"
+excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights"
 ---
-<!-- Optional featured posts or welcome text -->
-<section class="panel">
-  <h2>Featured</h2>
-  <p>Quick links: <a href="/demos/">Demos</a> · <a href="/ai/">AI Prompts</a> · <a href="/blog/about-me.md">About Me</a></p>
-</section>
+
+{% include feature_row id="quicknav" %}

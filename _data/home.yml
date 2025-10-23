@@ -1,0 +1,21 @@
+quicknav:
+  - image_path: /assets/images/code-icon.png
+    title: "C# Demos"
+    excerpt: "Runnable exception-handling and controller samples"
+    url: "/demos/"
+    btn_label: "View Demos"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/ai-icon.png
+    title: "AI Prompt Patterns"
+    excerpt: "Prompt engineering examples and use cases"
+    url: "/ai/"
+    btn_label: "Explore Prompts"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/mental-health-icon.png
+    title: "Peer Support"
+    excerpt: "Writing and tools from lived experience"
+    url: "/mental-health/"
+    btn_label: "Read Posts"
+    btn_class: "btn--primary"

@@ -1,4 +1,4 @@
---
+---
 layout: single
 title: "First Blog"
 date: 2025-10-22
