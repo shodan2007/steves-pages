@@ -31,5 +31,7 @@ author: "Steve"
 - Exception-handling framework; runnable samples in the repo.
 - Minimal ASP.NET sample: /samples/ExceptionDemo
 
+- and more
+- 
 {% include recent_posts limit=3 %}
 
