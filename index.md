@@ -3,6 +3,8 @@ layout: home
 title: "Welcome to Steve's Pages"
 author_profile: true
 entries_layout: grid
+classes: full
+
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
