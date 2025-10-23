@@ -29,7 +29,8 @@ Examples and notes from Coursera assignments and real prompts.
 {% assign ai_posts = site.posts | where_exp: "post", "post.categories contains 'AI'" %}
 <div class="recent-posts-grid">
   {% for post in ai_posts %}
-    <div class="recent-post-card" border: 2px solid black; style="background-color: cream;">
+    <div class="recent-post-card" 
+     style="border: 2px solid black; background-color: cream; margin: 0 0 5px 0;">
       {% if post.header.teaser %}
         <a href="{{ post.url | relative_url }}">
           <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}" class="recent-post-image">
