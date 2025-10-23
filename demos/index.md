@@ -2,6 +2,8 @@
 layout: single
 title: "Demos"
 permalink: /demos/
+sidebar:
+  nav: "demos"
 
 entries_layout: grid
 classes: wide

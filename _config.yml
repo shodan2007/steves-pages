@@ -32,20 +32,20 @@ social:
     - "https://github.com/shodan2007"
     - "https://linkedin.com/in/porter-steve"
 
-# Navigation links (sidebar or header)
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Demos"
-    url: "/demos/"
-  - title: "AI Prompts"
-    url: "/ai/"
-  - title: "Mental Health"
-    url: "/mental-health/"
-  - title: "Blog"
-    url: "/blog/"
-  - title: "Tags"
-    url: "/tags/"
+# # Navigation links (sidebar or header)
+# navigation:
+#   - title: "Home"
+#     url: "/"
+#   - title: "Demos"
+#     url: "/demos/"
+#   - title: "AI Prompts"
+#     url: "/ai/"
+#   - title: "Mental Health"
+#     url: "/mental-health/"
+#   - title: "Blog"
+#     url: "/blog/"
+#   - title: "Tags"
+#     url: "/tags/"
 
 # Defaults for posts
 defaults:
