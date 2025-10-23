@@ -6,7 +6,6 @@ author_profile: true
 
 sidebar:
   nav: "main"
-  sticky: true
 
 entries_layout: grid
 classes: wide
@@ -29,5 +28,4 @@ author: "Steve"
 
 - and more
 
-<!-- {% include recent_posts limit=3 %} -->
 
