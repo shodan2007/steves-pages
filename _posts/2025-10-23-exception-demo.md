@@ -34,6 +34,7 @@ This demo showcases a structured approach to exception handling in C# using cust
 
 ## Try it
 
-Visit the [Demos page] /demos/ to run the sample and view the source.
+Visit the [Demos page] [demos-link] to run the sample and view the source.
+[demos-link]: /demos/
 
 ---
