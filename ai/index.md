@@ -21,6 +21,11 @@ read_time: true
 share: true
 ---
 
+## AI Prompt Patterns
+Examples and notes from Coursera assignments and real prompts.
+
+<hr>
+
 {% assign ai_posts = site.posts | where_exp: "post", "post.categories contains 'AI'" %}
 <div class="recent-posts-grid">
   {% for post in ai_posts %}
@@ -36,10 +41,10 @@ share: true
         <p class="recent-post-excerpt">{{ post.excerpt }}</p>
       </div>
     </div>
+
+    <hr>
+    
   {% endfor %}
 </div>
 
-## AI Prompt Patterns
-Examples and notes from Coursera assignments and real prompts.
 
-{% include feature_row id="quicknav" %}

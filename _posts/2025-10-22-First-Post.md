@@ -2,7 +2,7 @@
 layout: single
 title: "First Post"
 date: 2025-10-22
-tags: [blog]
+tags: [blog, AI]
 categories: [general]
 
 excerpt: "Intro post with site overview."
