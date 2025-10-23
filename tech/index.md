@@ -25,7 +25,7 @@ share: true
 Seriously, it could be anything in here, except first person shooter games.  Not those.  No"
 <hr>
 
-{% assign tech_posts = site.posts | where_exp: "post", "post.categories contains ''" %}
+{% assign tech_posts = site.posts | where_exp: "post", "post.categories contains 'Tech'" %}
 <div class="recent-posts-grid">
   {% for post in tech_posts %}
     <div class="recent-post-card" 
