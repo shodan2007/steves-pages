@@ -2,7 +2,22 @@
 layout: page
 title: "Demos"
 permalink: /demos/
+categories: [general]
+excerpt: "Demos excerpt"
+header:
+  teaser: /assets/images/firstblog-exception.png
+  overlay_image: /assets/images/firstblog-overlay-exception.jpg
+  overlay_filter: 0.3
+
+read_time: true
+share: true
+related: true
+author: "Steve"
 ---
+
 ## Demos
 - Exception-handling framework; runnable samples in the repo.
 - Minimal ASP.NET sample: /samples/ExceptionDemo
+
+
+
