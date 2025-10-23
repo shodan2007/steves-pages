@@ -27,7 +27,7 @@ Examples and notes from Coursera assignments and real prompts.
 <hr>
 
 {% assign ai_posts = site.posts | where_exp: "post", "post.categories contains 'AI'" %}
-<div class="recent-posts-grid">
+<div class="recent-posts-grid" style="background-color: purple;">
   {% for post in ai_posts %}
     <div class="recent-post-card">
       {% if post.header.teaser %}
