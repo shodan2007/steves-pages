@@ -4,6 +4,8 @@ url: "https://shodan2007.github.io"
 baseurl: "/steves-pages"
 
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+
 
 plugins:
   - jekyll-feed
@@ -17,11 +19,11 @@ markdown: kramdown
 highlighter: rouge
 
 author:
-  name: "Stef"
+  name: "Steve"
   avatar: "/assets/images/avatar.jpg"
   bio: "Technologist, peer coach, and prompt tinkerer. Building clarity through code and care."
   location: "Indianapolis, IN"
-  email: "your-email@example.com"
+  email: "shodan2007@gmail.com"
 
 social:
   type:  "Person"
@@ -38,6 +40,8 @@ navigation:
     url: "/demos/"
   - title: "AI Prompts"
     url: "/ai/"
+  - title: "Mental Health"
+    url: "/mental-health/"
   - title: "Blog"
     url: "/blog/"
   - title: "Tags"
