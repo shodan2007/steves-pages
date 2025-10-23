@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: "Welcome to Steve's Pages"
 header:
   overlay_color: "#000"
