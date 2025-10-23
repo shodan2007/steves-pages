@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "AI"
 permalink: /ai/
 entries_layout: grid
@@ -43,7 +43,7 @@ Examples and notes from Coursera assignments and real prompts.
     </div>
 
     <hr>
-    
+
   {% endfor %}
 </div>
 
