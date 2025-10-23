@@ -1,27 +1,24 @@
 ---
-layout: single
+layout: home
 title: "AI"
 permalink: /ai/
-
-author_profile: true
-
-sidebar:
-  nav: "main"
-
 entries_layout: grid
 classes: wide
-categories: [general]
+
+categories: [general, ai]
+
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
+
 header:
-  teaser: /assets/images/teaser-exception.png
-  overlay_image: /assets/images/overlay-exception.jpg
-  overlay_filter: 0.3
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/header.jpg
+  caption: "Code clarity, prompt patterns, and lived experience"
 
 read_time: true
 share: true
-related: true
-author: "Steve"
-
 ---
+
+
 ## AI Prompt Patterns
 Examples and notes from Coursera assignments and real prompts.

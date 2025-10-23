@@ -16,4 +16,6 @@ header:
 excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights"
 ---
 
+#This is the home page!
+
 {% include feature_row id="quicknav" %}
