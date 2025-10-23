@@ -4,8 +4,9 @@ title: "AI"
 permalink: /ai/
 entries_layout: grid
 classes: wide
+category: ai
 
-categories: [general, ai]
+
 
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
