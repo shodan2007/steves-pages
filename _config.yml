@@ -53,12 +53,17 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "single"
+      layout: "home"
       author: "Steve"
       read_time: true
       comments: false
       share: true
       related: true
+
+# Enable grid layout for posts
+author_profile: true
+paginate: 6
+paginate_path: /page:num/
 
 # Include custom pages folder
 include:
