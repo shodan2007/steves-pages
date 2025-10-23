@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: "/"
-  - title: "Demos"
-    url: "/demos/"
+  - title: "Tech"
+    url: "/tech/"
   - title: "AI Prompts"
     url: "/ai/"
   - title: "Mental Health"
@@ -12,7 +12,7 @@ main:
     url: "/blog/"
 
 
-demos:
+Tech:
   - title: "Home"
     url: "/"
   - title: "AI Prompts"
