@@ -2,6 +2,9 @@
 layout: single
 title: "Demos"
 permalink: /demos/
+
+entries_layout: grid
+classes: wide
 categories: [general]
 excerpt: "Demos excerpt"
 header:
