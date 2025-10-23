@@ -6,7 +6,7 @@ sidebar:
   nav: "main"
 
 tags: [csharp, demo, logging]
-categories: [demos]
+categories: [Tech]
 excerpt: "Explore a runnable C# exception-handling demo with structured logging and controller logic."
 
 header:
