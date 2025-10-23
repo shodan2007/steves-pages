@@ -6,8 +6,6 @@ entries_layout: grid
 classes: wide
 category: ai
 
-
-
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
 sidebar:
