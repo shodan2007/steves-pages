@@ -10,11 +10,9 @@ main:
     url: "/mental-health/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Tags"
-    url: "/tags/"
 
 
-    demos:
+demos:
   - title: "Home"
     url: "/"
   - title: "AI Prompts"
@@ -23,3 +21,9 @@ main:
     url: "/mental-health/"
   - title: "Blog"
     url: "/blog/"
+
+
+
+
+
+

@@ -2,8 +2,11 @@
 layout: single
 title: "Demos"
 permalink: /demos/
+author_profile: true
+
 sidebar:
-  nav: "demos"
+  nav: "main"
+  sticky: true
 
 entries_layout: grid
 classes: wide
@@ -19,6 +22,9 @@ share: true
 related: true
 author: "Steve"
 ---
+
+{% include recent_posts limit=3 %}
+{% include tag_cloud %}
 
 ## Demos
 - Exception-handling framework; runnable samples in the repo.
