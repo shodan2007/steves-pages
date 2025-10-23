@@ -24,7 +24,7 @@ author: "Steve"
 ---
 
 {% include recent_posts limit=3 %}
-{% include tag_cloud %}
+
 
 ## Demos
 - Exception-handling framework; runnable samples in the repo.
