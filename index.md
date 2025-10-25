@@ -4,9 +4,6 @@ title: "Welcome to Steve's Pages"
 entries_layout: grid
 classes: wide
 
-sidebar:
-  nav: "main"
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
