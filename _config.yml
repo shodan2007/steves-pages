@@ -40,8 +40,6 @@ defaults:
       type: ""
     values:
       layout: single
-      sidebar:
-        nav: "sidebar"
         sticky: true
       author: "Steve"
       read_time: false
