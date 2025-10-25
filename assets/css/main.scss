@@ -5,19 +5,18 @@
 
 /* Page background (example from your dev changes) */
 body {
-  background-color: hotpink; /* your yellow-orange; change to the hex you used */
+  background-color: brown; /* your yellow-orange; change to the hex you used */
 }
 
 /* Single-column: constrain the main content area site-wide */
-.article,
-.article.page,
-.article .page
-.article .page__inner-wrap,
-.article .page__content,
-.article .page__hero,
-.article .collection,
-.article .grid__wrapper,
-.article .cards {
+
+.page,
+.page__inner-wrap,
+.page__content,
+.page__hero,
+.collection,
+.grid__wrapper,
+.cards {
   max-width: 760px !important;
   margin-left: auto !important;
   margin-right: auto !important;
