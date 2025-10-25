@@ -1,29 +1,11 @@
 # Navigation links (sidebar or header)
 main:
-  - title: "Home"
-    url: "/"
   - title: "Tech"
     url: "/tech/"
-  - title: "AI Prompts"
+  - title: "AI"
     url: "/ai/"
   - title: "Mental Health"
     url: "/mental-health/"
-  - title: "Blog"
-    url: "/blog/"
-
-
-Tech:
-  - title: "Home"
-    url: "/"
-  - title: "AI Prompts"
-    url: "/ai/"
-  - title: "Mental Health"
-    url: "/mental-health/"
-  - title: "Blog"
-    url: "/blog/"
-
-
-
 
 
 

@@ -5,7 +5,8 @@ baseurl: "/steves-pages"
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "default"
-
+header:
+  nav: main
 
 plugins:
   - jekyll-feed
@@ -36,17 +37,20 @@ social:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: ""
     values:
-      layout: "home"
+      layout: single
+      sidebar:
+        nav: "sidebar"
+        sticky: true
       author: "Steve"
-      read_time: true
+      read_time: false
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
 
 # Enable grid layout for posts
-author_profile: true
+author_profile: false
 paginate: 6
 paginate_path: /page:num/
 

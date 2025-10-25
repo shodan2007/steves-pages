@@ -1,7 +1,6 @@
 ---
 layout: home
 title: "Welcome to Steve's Pages"
-author_profile: true
 entries_layout: grid
 classes: wide
 
@@ -16,6 +15,6 @@ header:
 excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights"
 ---
 
-#This is the home page!
+#This is the home page! hmmmm.
 
 {% include feature_row id="quicknav" %}
