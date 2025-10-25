@@ -46,7 +46,6 @@ defaults:
       related: false
 
 # Enable grid layout for posts
-author_profile: false
 paginate: 6
 paginate_path: /page:num/
 

@@ -10,11 +10,6 @@ header:
   teaser: /assets/images/2025-10-23-post-talking-with-ai-teaser-600w.webp
   overlay_image: /assets/images/overlay-exception.jpg
   overlay_filter: 0.3
-
-read_time: true
-share: true
-related: true
-author: "Steve"
 ---
 
 # 🧠 Talking With AI: What I Learned About Large Language Models (and Why It Matters for Leaders)

@@ -8,9 +8,6 @@ category: ai
 
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
-sidebar:
-  nav: "main"
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
