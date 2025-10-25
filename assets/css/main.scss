@@ -10,7 +10,11 @@ body {
 
 /* Single-column: constrain the main content area site-wide */
 
-.page,
+.page {
+    width: auto;
+    padding-inline-end: 0;
+}
+
 .page__inner-wrap,
 .page__content,
 .page__hero,
@@ -24,10 +28,6 @@ body {
   padding-right: 24px !important;
 }
 
-.page {
-    width: auto;
-    padding-inline-end: 0;
-}
 
 
 
