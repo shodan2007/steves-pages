@@ -15,9 +15,8 @@ excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insigh
 
 #This is the home page! hmmmm 4.
 
-{% assign posts = site.posts | where_exp: "post" %}
 <div class="recent-posts-grid">
-  {% for post in posts %}
+  {% for post in site.posts %}
     <div class="recent-post-card" 
        style="border: 1px solid #e0e0e0; 
             background-color: #fffaf0;

@@ -3,14 +3,14 @@ layout: single
 title: "AI"
 entries_layout: grid
 
-permalink: /ai/
-category: ai
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
   caption: "Code clarity, prompt patterns, and lived experience"
+
+permalink: /ai/
+category: ai
 
 excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
