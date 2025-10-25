@@ -3,6 +3,17 @@
 
 @import "minimal-mistakes";
 
+.page,
+.page__content,
+.page__meta,
+.page__lead,
+.page__inner-wrap {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 2rem;
+}
+
 body {
-  background-color: yellow;
+  background-color: orange;
 }
