@@ -23,7 +23,6 @@ highlighter: rouge
 sass:
   style: compressed
 
-# Add this if it's missing:
 include:
   - assets/css
 
