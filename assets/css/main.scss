@@ -5,7 +5,16 @@
 
 /* Page background (example from your dev changes) */
 body {
-  background-color: green; /* your yellow-orange; change to the hex you used */
+  background-color: wine; /* your yellow-orange; change to the hex you used */
+}
+
+article.page {
+
+}
+
+@media (min-width: 80em) {
+article.page {
+}
 }
 
 /* Single-column: constrain the main content area site-wide */
@@ -23,3 +32,5 @@ body {
   padding-left: 24px !important;
   padding-right: 24px !important;
 }
+
+
