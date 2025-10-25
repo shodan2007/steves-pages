@@ -2,7 +2,7 @@
 layout: single
 title: "Demos"
 permalink: /demos/
-author_profile: true
+author_profile: false
 
 sidebar:
   nav: "main"

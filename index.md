@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welcome to Steve's Pages"
-author_profile: true
+author_profile: false
 entries_layout: grid
 classes: wide
 
