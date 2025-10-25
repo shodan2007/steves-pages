@@ -39,8 +39,6 @@ defaults:
       path: ""
       type: ""
     values:
-      layout: single
-        sticky: true
       author: "Steve"
       read_time: false
       comments: false
