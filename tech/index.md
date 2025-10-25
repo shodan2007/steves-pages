@@ -8,9 +8,6 @@ category: Tech
 
 excerpt: "Tech is a broad term that can refer to the application of knowledge for practical purposes, the resulting products and services (like software and hardware), or jobs and industries related to technology"
 
-sidebar:
-  nav: "main"
-
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"

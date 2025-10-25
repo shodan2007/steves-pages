@@ -4,9 +4,6 @@ title: "Demos"
 permalink: /demos/
 author_profile: false
 
-sidebar:
-  nav: "main"
-
 entries_layout: grid
 classes: wide
 categories: [general]

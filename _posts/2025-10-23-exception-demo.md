@@ -2,8 +2,6 @@
 layout: single
 title: "Exception Handling Demo"
 date: 2025-10-23
-sidebar:
-  nav: "main"
 
 tags: [csharp, demo, logging]
 categories: [Tech]

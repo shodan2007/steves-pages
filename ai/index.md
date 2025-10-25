@@ -1,12 +1,10 @@
 ---
 layout: single
 title: "AI"
-permalink: /ai/
 entries_layout: grid
-classes: wide
-category: ai
 
-excerpt: "AI - Is that Artificial or Augmented Intelligence?"
+permalink: /ai/
+category: ai
 
 header:
   overlay_color: "#000"
@@ -14,18 +12,16 @@ header:
   overlay_image: /assets/images/header.jpg
   caption: "Code clarity, prompt patterns, and lived experience"
 
-read_time: true
-share: true
+excerpt: "AI - Is that Artificial or Augmented Intelligence?"
+
 ---
 
 ## AI Prompt Patterns
 Examples and notes from Coursera assignments and real prompts.
 
-<hr>
-
-{% assign ai_posts = site.posts | where_exp: "post", "post.categories contains 'AI'" %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'AI'" %}
 <div class="recent-posts-grid">
-  {% for post in ai_posts %}
+  {% for post in posts %}
     <div class="recent-post-card" 
        style="border: 1px solid #e0e0e0; 
             background-color: #fffaf0;
