@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/header.jpg
   caption: "Code clarity, prompt patterns, and lived experience"
 
-excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights"
+excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights 2"
 
 ---
 
