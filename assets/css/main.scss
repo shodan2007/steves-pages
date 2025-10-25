@@ -9,14 +9,15 @@ body {
 }
 
 /* Single-column: constrain the main content area site-wide */
-.site,
-.site .page,
-.site .page__inner-wrap,
-.site .page__content,
-.site .page__hero,
-.site .collection,
-.site .grid__wrapper,
-.site .cards {
+.article,
+.article.page,
+.article .page
+.article .page__inner-wrap,
+.article .page__content,
+.article .page__hero,
+.article .collection,
+.article .grid__wrapper,
+.article .cards {
   max-width: 760px !important;
   margin-left: auto !important;
   margin-right: auto !important;
