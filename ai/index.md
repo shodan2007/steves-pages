@@ -16,8 +16,6 @@ excerpt: "AI - Is that Artificial or Augmented Intelligence?"
 
 ---
 
-<link rel="stylesheet" type="text/css" href="/_sass/custom/custom.scss">
-
 ## AI Prompt Patterns
 Examples and notes from Coursera assignments and real prompts.
 

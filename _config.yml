@@ -1,3 +1,5 @@
+
+
 title: "Steve's Pages"
 description: "A place to learn, grow, and share support — tech, prompts, peer coaching"
 url: "https://shodan2007.github.io"
@@ -18,6 +20,9 @@ paginate_path: "/page:num/"
 
 markdown: kramdown
 highlighter: rouge
+sass:
+  style: compressed
+
 
 author:
   name: "Steve"
