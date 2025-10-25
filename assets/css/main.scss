@@ -3,17 +3,77 @@
 
 @import "minimal-mistakes";
 
+/* Page background (example from your dev changes) */
+body {
+  background-color: green; /* your yellow-orange; change to the hex you used */
+}
+
+/* Narrow and center main content used across many MM layouts */
 .page,
 .page__content,
-.page__meta,
+.page__hero,
+.page__title,
 .page__lead,
 .page__inner-wrap {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
-  padding: 1rem 2rem;
+  padding: 1rem 1.25rem;
 }
 
-body {
-  background-color: orange;
+/* Make hero/title feel more like a controlled column */
+.page__hero,
+.page__title {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 1.5rem;
+}
+
+/* Post card / list preview tuning (targets common MM card/grid classes) */
+.collection,
+.grid,
+.grid__wrapper,
+.cards,
+.card {
+  max-width: 920px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Individual preview card: consistent width, spacing, and soft shadow */
+.card,
+.post-card,
+.post {
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+  background: rgba(255,255,255,0.9);
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Links and primary accents */
+a {
+  color: #0b3d91;
+  text-decoration: underline;
+}
+
+/* Responsive: allow full width on small screens */
+@media (max-width: 768px) {
+  .page,
+  .page__content,
+  .page__hero,
+  .page__title,
+  .page__lead,
+  .page__inner-wrap,
+  .grid__wrapper {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .card,
+  .post-card,
+  .post {
+    padding: 0.8rem;
+  }
 }
