@@ -6,7 +6,7 @@ url: "https://shodan2007.github.io"
 baseurl: "/steves-pages"
 
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "default"
+# minimal_mistakes_skin: "default"
 header:
   nav: main
 
@@ -23,6 +23,9 @@ highlighter: rouge
 sass:
   style: compressed
 
+# Add this if it's missing:
+include:
+  - assets/css
 
 author:
   name: "Steve"
