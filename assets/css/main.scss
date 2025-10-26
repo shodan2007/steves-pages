@@ -5,7 +5,7 @@
 
 /* Page background (example from your dev changes) */
 body {
-  background-color: brown; /* your yellow-orange; change to the hex you used */
+  background-color: BLUE; /* your yellow-orange; change to the hex you used */
 }
 
 /* Single-column: constrain the main content area site-wide */
@@ -15,18 +15,7 @@ body {
     padding-inline-end: 0;
 }
 
-.page__inner-wrap,
-.page__content,
-.page__hero,
-.collection,
-.grid__wrapper,
-.cards {
-  max-width: 760px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 24px !important;
-  padding-right: 24px !important;
-}
+
 
 
 
