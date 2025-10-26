@@ -3,48 +3,19 @@
 
 @import "minimal-mistakes";
 
-/* Page background (example from your dev changes) */
+
 body {
-  background-color: BLUE; /* your yellow-orange; change to the hex you used */
+  background-color: BLUE; 
 }
 
-/* Single-column: constrain the main content area site-wide */
-
+// The .page is the class name used by the article object that is 
+// held within the main div. It his does not refer to the entire page.
 .page {
     width: auto;
     padding-inline-end: 0;
 }
 
+site-nav {
+  background-color: BLUE;
+}
 
-
-
-
-
-
-// /* Minimal single-column: target the article/page content and common list wrappers only */
-// article.page,
-// .page__content,
-// .page__inner-wrap,
-// .grid__wrapper,
-// .collection {
-//   max-width: 760px;
-//   width: auto;
-//   padding-inline-end: 0;
-
-//   margin-left: auto;
-//   margin-right: auto;
-//   padding-left: 24px;
-//   padding-right: 24px;
-//   box-sizing: border-box;
-// }
-
-// /* Ensure cards live inside that column but don't resize header/banner */
-// .card,
-// .post-card,
-// .post {
-//   max-width: 100%;
-//   margin-left: 0;
-//   margin-right: 0;
-// }
-
-// /* Keep header, banner, and site wrapper untouched so theme controls them */
