@@ -38,7 +38,5 @@ I don’t just build systems that listen — I listen. I’ve led behavioral hea
       </div>
     </div>
 
-    <hr>
-
   {% endfor %}
 </div>
