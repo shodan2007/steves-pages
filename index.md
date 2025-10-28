@@ -13,7 +13,7 @@ excerpt: "People first. Systems that support, not just scale."
 
 ---
 
-In a world where software shapes lives, I build systems that listen. This portfolio blends technical precision with human-centered design — from trauma-aware flows to ethical AI demos. Whether you're debugging resilience or architecting trust, you'll find tools here that prioritize clarity, care, and real-world impact.
+In a world where software shapes lives, I build systems that listen. This portfolio blends technical precision with behavioral health and human-centered design — from trauma-aware flows to ethical AI. Whether you're debugging resilience or architecting trust, you'll find tools here that prioritize clarity, care, and real-world impact.
 
 <div class="recent-posts-grid">
   {% for post in site.posts %}
