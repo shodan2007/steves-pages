@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Welcome to Steve's Pages"
+title: "Code That Cares: Building Ethical AI for Mental Health"
 entries_layout: grid
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
-  caption: "Code That Cares: Building Ethical AI for Mental Health"
-  excerpt: "People first. Systems that support, not just scale."
+  caption: "People first. Systems that support, not just scale."
+  excerpt: "People first. Systems that support, not just scale (2)"
 
 ---
 
