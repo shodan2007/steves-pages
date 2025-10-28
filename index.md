@@ -17,7 +17,7 @@ I don’t just build systems that listen — I listen. I’ve led behavioral hea
   {% for post in site.posts %}
     <div class="recent-post-card" 
        style="border: 1px solid #e0e0e0; 
-            max-width: 350px;
+            max-width: 430px;
             background-color: #fffaf0;
             border-radius: 12px; 
             padding: 16px; 
