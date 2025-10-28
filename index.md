@@ -4,9 +4,7 @@ title: "Code That Cares"
 entries_layout: grid
 
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/homeheader.jpg
+  overlay_image: /assets/images/header.jpg
   caption: "Ethical AI, Software, and Listening - for <i>Our</i> Mental Health"
 
 excerpt: "People first. Systems that support, not just scale."
