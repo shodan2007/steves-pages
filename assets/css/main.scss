@@ -13,6 +13,10 @@ body {
   background-color: #87ceeb; 
 }
 
+.layout--single {
+  padding: 0;
+}
+
 // The .page is the class name used by the article object that is 
 // held within the main div. It his does not refer to the entire page.
 .page {
