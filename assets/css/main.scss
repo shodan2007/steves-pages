@@ -3,10 +3,18 @@
 
 @import "minimal-mistakes";
 
+.layout--single {
+  max-width: 1000px; /* or 960px, depending on your content */
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
 
 body {
   background-color: #87ceeb; 
 }
+
+
 
 // The .page is the class name used by the article object that is 
 // held within the main div. It his does not refer to the entire page.
@@ -19,3 +27,10 @@ body {
     background-color: #87ceeb;
 }
 
+.page__hero-overlay {
+  max-width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  background-size: cover;
+  background-position: center;
+}
