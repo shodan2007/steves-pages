@@ -1,16 +1,14 @@
 ---
 layout: single
-title: "Welcome to Steve's Pages"
+title: "Code That Cares"
 entries_layout: grid
 
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
-  caption: "Code That Cares: Ethical AI and Software for Mental Health"
-
-excerpt: "People first. Systems that support, not just scale."
-
+  excerpt: "Ethical AI and Software for Mental Health"
+  caption: "People first. Systems that support, not just scale."
 ---
 
 In a world where software shapes lives, I build systems that listen. This portfolio blends technical precision with behavioral health and human-centered design — from trauma-aware flows to ethical AI. Whether you're debugging resilience or architecting trust, you'll find tools here that prioritize clarity, care, and real-world impact.
