@@ -7,13 +7,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
-  caption: "Code clarity, prompt patterns, and lived experience"
-
-excerpt: "Runnable C# demos · AI prompt engineering · Behavioral health insights 2"
+  caption: "Code That Cares: Building Ethical AI for Mental Health"
+  excerpt: "People first. Systems that support, not just scale."
 
 ---
 
-#This is the home page! hmmmm 4.
+In a world where software shapes lives, I build systems that listen. This portfolio blends technical precision with human-centered design — from trauma-aware flows to ethical AI demos. Whether you're debugging resilience or architecting trust, you'll find tools here that prioritize clarity, care, and real-world impact.
 
 <div class="recent-posts-grid">
   {% for post in site.posts %}
