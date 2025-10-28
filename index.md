@@ -7,9 +7,10 @@ header:
   overlay_image: /assets/images/header.jpg
   caption: "Ethical AI, Software, and Listening - for <i>Our</i> Mental Health"
 
-excerpt: "People first. Systems that support, not just scale."
+excerpt: "People first.<br>Systems that support us, not us support them."
 
 ---
+<!-- # excerpt: "People first.<br>Systems that support, not just scale." -->
 
 I don’t just build systems that listen — I listen. I’ve led behavioral health technicians supporting unhoused individuals, managed addiction recovery homes, and worked in psychiatric inpatient care. With an MS in Industrial Engineering, decades as a professional software developer, peer support certification, lived experience, and graduate-level psychology coursework, I bring both technical depth and human insight. As a developer, architect, and engineer, I design trauma-aware tools, ethical AI flows, and resilient systems that serve real people. Whether you’re debugging code or navigating anger, I’m here to help with clarity, care, and calm.
 
