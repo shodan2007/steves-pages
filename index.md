@@ -8,10 +8,12 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/header.jpg
   caption: "Ethical AI and Software for Mental Health"
-  excerpt: "People first. Systems that support, not just scale."
+
+excerpt: "People first. Systems that support, not just scale."
+
 ---
 
-In a world where software shapes lives, I build systems that listen. This portfolio blends technical precision with behavioral health and human-centered design — from trauma-aware flows to ethical AI. Whether you're debugging resilience or architecting trust, you'll find tools here that prioritize clarity, care, and real-world impact.
+I don’t just build systems that listen — I listen. I’ve led behavioral health technicians supporting unhoused individuals, managed addiction recovery homes, and worked in psychiatric inpatient care. With an MS in Industrial Engineering, decades as a professional software developer, peer support certification, lived experience, and graduate-level psychology coursework, I bring both technical depth and human insight. As a developer, architect, and engineer, I design trauma-aware tools, ethical AI flows, and resilient systems that serve real people. Whether you’re debugging code or navigating anger, I’m here to help with clarity, care, and calm.
 
 <div class="recent-posts-grid">
   {% for post in site.posts %}
