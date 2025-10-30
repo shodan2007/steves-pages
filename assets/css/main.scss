@@ -44,27 +44,14 @@ body {
   color: #d87c3a; /* copper accent — warm and inviting */
 }
 
-
-
-a {
-  color: #d87c3a;
-  text-decoration: none;
+greedy-nav ul {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-
-a:hover {
-  color: #6c9ea3;
-}
-
-nav a {
-  color: #f5f0e6; /* linen — soft but readable */
-  font-weight: 500;
-  text-decoration: none;
-}
-
-nav a:hover {
-  color: #d87c3a; /* copper accent — warm and inviting */
-}
-
 
 // Accent color: #d87c3a
 // Secondary Accent: #6c9ea3
