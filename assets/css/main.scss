@@ -69,11 +69,20 @@ greedy-nav ul {
 
 .page__hero-overlay {
   max-width: 1000px;
-  height: auto;
   margin: 0 0px;
   background-size: cover;
   background-position: center;
   padding: 0px;
+  aspect-ratio: 10 / 2;
+  width: 100%;
+}
+
+.wrapper {
+  visibility: hidden;;
+}
+
+.page__hero-caption {
+  visibility: hidden;
 }
 
 .recent-posts-grid {
