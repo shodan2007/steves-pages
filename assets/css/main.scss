@@ -12,7 +12,7 @@
 body {
   color: #333333;
   background-color: #f5f0e6; 
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -41,13 +41,14 @@ body {
   font-weight: 500;
   text-decoration: none;
   padding: 0;
+  transition: color 0.3s ease;
 }
 
 .greedy-nav a:hover {
   color: #d87c3a; /* copper accent — warm and inviting */
 }
 
-greedy-nav ul {
+.greedy-nav ul {
   display: flex;
   gap: 1.5rem;
   align-items: center;
@@ -59,8 +60,7 @@ greedy-nav ul {
 // Accent color: #d87c3a
 // Secondary Accent: #6c9ea3
 
-// The .page is the class name used by the article object that is 
-// held within the main div. It his does not refer to the entire page.
+// .page refers to the article container, not the full page layout
 .page {
     width: auto;
     padding-inline-end: 0;
@@ -68,7 +68,6 @@ greedy-nav ul {
 }
 
 .page__hero--overlay {
-  background-size: cover;
   background-position: center;
   aspect-ratio: 13 / 3; /* Adjust based on your image */
   width: 100%;
@@ -77,10 +76,7 @@ greedy-nav ul {
   background-size: contain;
 }
 
-.wrapper {
-  visibility: hidden;;
-}
-
+.wrapper, 
 .page__hero-caption {
   visibility: hidden;
 }
