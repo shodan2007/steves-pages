@@ -68,12 +68,9 @@ greedy-nav ul {
 }
 
 .page__hero-overlay {
-  max-width: 1000px;
-  margin: 0 0px;
   background-size: cover;
   background-position: center;
-  padding: 0px;
-  aspect-ratio: 10 / 2;
+  aspect-ratio: 13 / 3; /* Adjust based on your image */
   width: 100%;
 }
 
