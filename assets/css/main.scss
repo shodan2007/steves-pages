@@ -6,7 +6,7 @@
 .layout--single {
   max-width: 1000px; /* or 960px, depending on your content */
   margin: 0 auto;
-  padding: 0 1rem;
+  padding: 0;
 }
 
 body {
@@ -14,6 +14,7 @@ body {
   background-color: #f5f0e6; 
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
+  padding: 0;
 }
 
 .card {
@@ -26,18 +27,20 @@ body {
 
 .masthead__inner-wrap {
   background-color: #3a3a3a;
+  padding: 0;
 }
 
 .greedy-nav {
   background-color: #3a3a3a;
   color: #f5f0e6; 
-  padding: 1rem;
+  padding: 0;
 }
 
 .greedy-nav a {
   color: #f5f0e6; /* linen — soft but readable */
   font-weight: 500;
   text-decoration: none;
+  padding: 0;
 }
 
 .greedy-nav a:hover {
@@ -61,6 +64,7 @@ greedy-nav ul {
 .page {
     width: auto;
     padding-inline-end: 0;
+    padding: 0;
 }
 
 .page__hero-overlay {
