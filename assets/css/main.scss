@@ -28,11 +28,22 @@ body {
   background-color: #3a3a3a;
 }
 
-.greedy-nav-nav {
+.greedy-nav {
   background-color: #3a3a3a;
-  color: #f5f0e6;
+  color: #f5f0e6; 
   padding: 1rem;
 }
+
+.greedy-nav a {
+  color: #f5f0e6; /* linen — soft but readable */
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.greedy-nav a:hover {
+  color: #d87c3a; /* copper accent — warm and inviting */
+}
+
 
 
 a {
