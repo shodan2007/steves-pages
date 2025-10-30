@@ -12,19 +12,34 @@
 body {
   color: #333333;
   background-color: #f5f0e6; 
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
 }
 
-.recent-posts-card {
+.card {
   background-color: #fdfaf6;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
-menu {
+nav {
   background-color: #3a3a3a;
+  color: #f5f0e6;
+  padding: 1rem;
 }
 
-.masthead__inner-wrap nav {
-    background-color: #3a3a3a;
+a {
+  color: #d87c3a;
+  text-decoration: none;
 }
+
+a:hover {
+  color: #6c9ea3;
+}
+
+
 
 // Accent color: #d87c3a
 // Secondary Accent: #6c9ea3
