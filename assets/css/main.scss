@@ -63,15 +63,12 @@ greedy-nav ul {
     padding-inline-end: 0;
 }
 
-.page__hero-caption {
-  inset-inline-end: auto;
-}
-
 .page__hero-overlay {
   background-size: cover;
   background-position: center;
   aspect-ratio: 13 / 3; /* Adjust based on your image */
   width: 100%;
+  padding: 0;
 }
 
 .wrapper {
