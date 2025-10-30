@@ -24,11 +24,16 @@ body {
   margin-bottom: 1rem;
 }
 
-nav {
+.masthead__inner-wrap {
+  background-color: #3a3a3a;
+}
+
+.greedy-nav-nav {
   background-color: #3a3a3a;
   color: #f5f0e6;
   padding: 1rem;
 }
+
 
 a {
   color: #d87c3a;
@@ -76,5 +81,10 @@ a:hover {
   .recent-posts-grid {
     grid-template-columns: 1fr 1fr; /* Two columns when wide enough */
   }
+}
+
+.skip-links {
+  height: 0;
+  max-height: 0;
 }
 
