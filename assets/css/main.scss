@@ -10,22 +10,30 @@
 }
 
 body {
-  background-color: #87ceeb; 
+  color: #333333;
+  background-color: #f5f0e6; 
 }
 
-.layout--single {
-  padding: 0;
+.recent-posts-card {
+  background-color: #fdfaf6;
 }
+
+menu {
+  background-color: #3a3a3a;
+}
+
+.masthead__inner-wrap nav {
+    background-color: #3a3a3a;
+}
+
+// Accent color: #d87c3a
+// Secondary Accent: #6c9ea3
 
 // The .page is the class name used by the article object that is 
 // held within the main div. It his does not refer to the entire page.
 .page {
     width: auto;
     padding-inline-end: 0;
-}
-
-.masthead__inner-wrap nav {
-    background-color: #87ceeb;
 }
 
 .page__hero-caption {
