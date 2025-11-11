@@ -1,11 +1,11 @@
 # Navigation links (sidebar or header)
 main:
-  - title: "Tech"
-    url: "/tech/"
-  - title: "AI"
-    url: "/ai/"
-  - title: "Mental Health"
-    url: "/mental-health/"
+  # - title: "Tech"
+  #   url: "/tech/"
+  # - title: "AI"
+  #   url: "/ai/"
+  # - title: "Mental Health"
+  #   url: "/mental-health/"
 
 
 
