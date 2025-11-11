@@ -88,6 +88,18 @@ body {
   padding: 1rem;
 }
 
+.recent-post-card {
+  background-color: purple;
+}
+
+.recent-post-image {
+  border-width: 10px;
+  border-style: solid;
+  border-color: green;
+}
+
+style="border: 10px solid"
+
 @media (min-width: 840px) {
   .recent-posts-grid {
     grid-template-columns: 1fr 1fr; /* Two columns when wide enough */

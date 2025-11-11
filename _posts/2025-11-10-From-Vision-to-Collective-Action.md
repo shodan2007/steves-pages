@@ -8,7 +8,7 @@ categories: []
 author: "Steve"
 excerpt: "Systemic change starts not with ownership, but with a blueprint for belonging. Too often, powerful ideas are either gated or co-opted. This framework is designed to prevent both..."
 header:
-  teaser: /assets/images/assets/images/2025-11-10-From-Vision-to-Collective-Action-Teaser-256x256.jpeg
+  teaser: /assets/images/2025-11-10-From-Vision-to-Collective-Action-Teaser-256x256.jpeg
   overlay_image: /assets/images/2025-11-10-From-Vision-to-Collective-Action-Banner-1023x234.jpeg
   overlay_filter: 0.3
 
