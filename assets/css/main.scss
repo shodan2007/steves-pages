@@ -17,12 +17,27 @@ body {
   padding: 0;
 }
 
+.recent-post-card {
+  border-width: 5px;
+  border-color: purple;
+  border-style: solid;
+}
+
+.recent-post-image {
+  border-width: 5px;
+  border-color: hotpink;
+  border-style: solid;
+}
+
 .card {
   background-color: #fdfaf6;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   padding: 1rem;
   margin-bottom: 1rem;
+  border-width: 5px;
+  border-color: black;
+  border-style: solid;
 }
 
 .masthead {
@@ -88,15 +103,7 @@ body {
   padding: 1rem;
 }
 
-.recent-post-card {
-  background-color: purple;
-}
 
-.recent-post-image {
-  border-width: 10px;
-  border-style: solid;
-  border-color: green;
-}
 
 @media (min-width: 840px) {
   .recent-posts-grid {
