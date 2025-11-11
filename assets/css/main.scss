@@ -33,7 +33,7 @@ body {
 .greedy-nav {
   background-color: #3a3a3a;
   color: #f5f0e6; 
-  padding: 0 0 0 1rem;
+  padding: 0 0 0 0rem;
 }
 
 .greedy-nav a {
@@ -74,6 +74,7 @@ body {
   padding: 0;
   margin: 0;
   background-size: contain;
+  background-color: #000;
 }
 
 .wrapper, 

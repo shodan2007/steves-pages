@@ -14,7 +14,7 @@ excerpt: "People first.<br>Systems that support, not just scale."
 I don’t just build systems that listen — I listen. I’ve led behavioral health technicians supporting unhoused individuals, managed addiction recovery homes, and worked in psychiatric inpatient care. With an MS in Industrial Engineering, decades as a professional software developer, peer support certification, lived experience, and graduate-level psychology coursework, I bring both technical depth and human insight. As a developer, architect, and engineer, I design trauma-aware tools, ethical AI flows, and resilient systems that serve real people. Whether you’re debugging code or navigating anger, I’m here to help with clarity, care, and calm.
 
 <div class="recent-posts-grid">
-  {% for post in site.posts %}
+  {% foreach post in site.posts %}
     <div class="recent-post-card" 
        style="border: 1px solid #e0e0e0; 
             max-width: 430px;
