@@ -7,8 +7,7 @@ categories: [AI]
 author: "Steve"
 excerpt: "Well, it’s a bit like striking up a conversation with someone who’s brilliant but unpredictable—sometimes insightful, sometimes perplexing..."
 header:
-  teaser: /assets/images/2025-10-23-post-talking-with-ai-teaser-600w.webp
-  overlay_image: /assets/images/overlay-exception.jpg
+  teaser: /assets/images/2025-10-23-post-talking-with-ai-teaser-256x265.jpeg
   overlay_filter: 0.3
 ---
 
