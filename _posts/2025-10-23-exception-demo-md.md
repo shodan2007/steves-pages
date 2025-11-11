@@ -8,8 +8,6 @@ categories: [Tech]
 excerpt: "Explore a runnable C# exception-handling demo with structured logging and controller logic."
 
 header:
-  teaser: /assets/images/teaser-exception.png
-  overlay_image: /assets/images/overlay-exception.jpg
   overlay_filter: 0.3
   caption: "Live demo available"
   actions:

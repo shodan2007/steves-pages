@@ -9,10 +9,6 @@
   padding: 0;
 }
 
-.site-title {
-  padding: 0 0 0 1.3em;
-}
-
 body {
   color: #333333;
   background-color: #f5f0e6; 
@@ -54,7 +50,7 @@ body {
   color: #f5f0e6; /* linen — soft but readable */
   font-weight: 500;
   text-decoration: none;
-  padding: 0;
+  padding: 0 0 0 1.3em;
   transition: color 0.3s ease;
 }
 
